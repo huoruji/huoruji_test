@@ -22,6 +22,7 @@ For detailed explanation on how things work, checkout the [guide](http://vuejs-t
 
     首页
 ![](https://github.com/huoruji/readImg/blob/master/IMG_2915.PNG)
+</br>
     搜索结果页
 ![](https://github.com/huoruji/readImg/blob/master/IMG_2916.PNG)
     光标聚焦搜索框提示页
